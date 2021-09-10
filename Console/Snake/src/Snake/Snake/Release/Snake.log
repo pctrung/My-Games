@@ -1,0 +1,10 @@
+﻿Build started 4/15/2019 3:30:24 PM.
+     1>Project "C:\Users\TRUNG\Documents\Visual Studio 2015\Projects\Snake\Snake\Snake.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>Done Building Project "C:\Users\TRUNG\Documents\Visual Studio 2015\Projects\Snake\Snake\Snake.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.94

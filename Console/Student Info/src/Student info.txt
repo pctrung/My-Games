@@ -1,0 +1,4 @@
+  B1809424                Pham Chi Trung     11 02 2000           Vinh Long    1.00   90
+  B1809425             Trung Xi Dep Trai     12 01 2120          Binh Duong    4.00   80
+  B1809426                        Cho De     14 12 2101                Phap    5.00   45
+  B1809427             Vo Tinh Thanh Cho     12 30 3210          Binh Phuoc    1.00   69

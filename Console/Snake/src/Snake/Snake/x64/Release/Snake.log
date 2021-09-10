@@ -1,0 +1,20 @@
+﻿Build started 4/29/2019 11:38:45 AM.
+     1>Project "C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\Snake\Snake.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /D _MBCS /D _CRT_SECURE_NO_WARNINGS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt console.cpp main.cpp
+         console.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\x64\Release\Snake.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\x64\Release\Snake.pdb" /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\x64\Release\Snake.lib" /MACHINE:X64 x64\Release\console.obj
+         x64\Release\main.obj
+         Generating code
+         375 of 382 functions (98.2%) were compiled, the rest were copied from previous compilation.
+           334 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Snake.vcxproj -> C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\x64\Release\Snake.exe
+     1>Done Building Project "C:\Users\TRUNG\documents\visual studio 2015\Projects\Snake\Snake\Snake.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.91
