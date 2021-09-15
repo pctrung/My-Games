@@ -1,3 +1,3 @@
 # My Games
  
-My first games when I was first year student
+My first games were when I was a first-year student. Include console and unity games
